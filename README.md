@@ -1,17 +1,46 @@
-### Olá, Thiago Chapuis 
+<div align="center">
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&colorB=1e90ff))](https://www.linkedin.com/in/thiago-chapuis-13b1b9248/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&colorB=1e90ff)](https://www.instagram.com/thiago.chapuis/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCRe3x0zeZ8Oszs_wEY0XhWw)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/thefirstdog)
+<img src="images/Thiago_Chapuis.jpg" width="140" style="border-radius:50%;" alt="Thiago Chapuis">
 
-## Tecnologias
+# Thiago Chapuis
 
-<div style="display: inline-block">
-  <img align="center" alt="Html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=black&colorB=1e90ff" />
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=black&colorB=1e90ff" />
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black&colorB=800080" />
-  <img align="center" alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=black&colorB=800080" />
-  <img align="center" alt="SqlServer" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=black&colorB=FFFF00" />
-</div><br/>
+Analista de Suporte • Oracle • SQL Server • Python
 
+</div>
+
+---
+
+### Sobre
+
+Profissional com experiência em suporte técnico e banco de dados, atuando na análise e resolução de problemas em sistemas ERP.
+
+---
+
+### Tecnologias
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode,visualstudio"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
+
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
+
+</p>
+
+---
+
+### Contato
+- 📧 E-mail: tihago.chapuis@gmail.com
+
+---
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&theme=transparent"/>
+
+</div>
