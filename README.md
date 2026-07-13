@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/Thiago_Chapuis.jpg" width="140" style="border-radius:50%;" alt="Thiago Chapuis">
+<img src="Thiago_Chapuis.jpg" width="140" style="border-radius:50%;" alt="Thiago Chapuis">
 
 # Thiago Chapuis
 
@@ -35,7 +35,7 @@ Profissional com experiência em suporte técnico e banco de dados, atuando na a
 ---
 
 ### Contato
-- 📧 E-mail: tihago.chapuis@gmail.com
+- E-mail: tihago.chapuis@gmail.com
 
 ---
 
