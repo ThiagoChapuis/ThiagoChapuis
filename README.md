@@ -41,6 +41,4 @@ Profissional com experiência em suporte técnico e banco de dados, atuando na a
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&theme=transparent"/>
-
 </div>
