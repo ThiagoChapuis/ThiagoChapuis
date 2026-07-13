@@ -1,4 +1,4 @@
-### Olá, Sou Thiago Chapuis 🔥
+Thiago Chapuis 
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoChapuis&show_icons=true&theme=tokyonight)
 
