@@ -1,4 +1,4 @@
-### Olá, Sou Thiago Chapuis 🔥
+### Olá, Thiago Chapuis 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&colorB=1e90ff))](https://www.linkedin.com/in/thiago-chapuis-13b1b9248/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&colorB=1e90ff)](https://www.instagram.com/thiago.chapuis/)
